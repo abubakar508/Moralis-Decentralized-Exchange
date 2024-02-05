@@ -44,4 +44,4 @@ npm install
 ### We welcome contributions from the community. If you'd like to contribute, please follow our contribution guidelines.
 
 
-#### ABismahat -Blockchain Software Developer
+#### Abismahat -Blockchain Software Developer
