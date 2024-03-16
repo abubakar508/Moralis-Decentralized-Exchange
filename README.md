@@ -28,7 +28,7 @@ Our decentralized exchange allows users to trade various tokens securely and eff
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/decentralized-exchange.git
+git clone https://github.com/abubakar508/decentralized-exchange.git
 cd decentralized-exchange
 npm install
 ```
